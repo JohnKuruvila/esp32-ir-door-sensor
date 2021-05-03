@@ -18,6 +18,8 @@ This project, which I personally call the "never-gonna-catch-me-in-the-act-ever-
 	* Requests module
 	* pyautogui module
 	* json module
+* NirCmd (used to control volume in Windows)
+
 <hr>
 
 <h2> Steps </h2>
